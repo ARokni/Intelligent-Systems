@@ -1,7 +1,7 @@
 # Fourth Project
 
 
- In this project I have employed **`Reinforcement Learning`** (**`Q-Learning`**) algorithm to solve [**`Tower of Hanoi Problem`**](https://en.wikipedia.org/wiki/Tower_of_Hanoi) utilizng **`MATLAB`**.
+ In this project I have employed **`Reinforcement Learning`** (**`Q-Learning`**) algorithm to solve the [**`Tower of Hanoi Problem`**](https://en.wikipedia.org/wiki/Tower_of_Hanoi) utilizng **`MATLAB`**.
 
 
 # Codes
