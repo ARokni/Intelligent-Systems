@@ -6,7 +6,7 @@
 
 # Codes
 
-The codes are provided in [NeuralNet_Gradient_Descent](https://github.com/ARokni/Intelligent-Systems/blob/main/3/Codes/P1/Gradient_Descent.m) and [NeuralNet_Stochastic_Gradient_Descent](https://github.com/ARokni/Intelligent-Systems/blob/main/3/Codes/P1/Stochastic_Gradient_Descent.m).
+The codes are provided in [Hanoi](https://github.com/ARokni/Intelligent-Systems/blob/main/4/Codes/Hanoi.m).
 
 
 
