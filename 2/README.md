@@ -20,13 +20,13 @@
 
 ## Codes
 
-* The main codes of the **first part** are provided in [P1_main]() and the **MATLAB Function** for the **ID3** algorithm is provided in [P1c_ID3]().
+* The main codes of the **first part** are provided in [P1_main](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem1/P1_main.m) and the **MATLAB Function** for the **ID3** algorithm is provided in [P1c_ID3](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem1/P1c_ID3.m).
 
-* The main codes of the **second part** are provided in [P1_Tree_GINI]() and the **MATLAB Function** for the **ID3 with Gini Index** algorithm is provided in [ID3_by_GINI]().
+* The main codes of the **second part** are provided in [P1_Tree_GINI](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem1/P1_Tree_GINI.m) and the **MATLAB Function** for the **ID3 with Gini Index** algorithm is provided in [ID3_GINI](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem1/ID3_by_GINI.m).
 
-* The main codes of the **third part** are provided in [P1_Tree_OverfitID3]() and the **MATLAB Function** for the **ID3 with Overfitting Mechanism** algorithm is provided in [ID3_overfit]().
+* The main codes of the **third part** are provided in [P1_Tree_OverfitID3](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem1/P1_Tree_OverfitID3.m) and the **MATLAB Function** for the **ID3 with Overfitting Mechanism** algorithm is provided in [ID3_overfit](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem1/ID3_overfit.m).
 
-* The main codes of the **fourth part** are provided in [P1_Radom_Forest]().
+* The main codes of the **fourth part** are provided in [P1_Radom_Forest](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem1/P1_Radom_Forest.m).
 
 
 # KNN
@@ -40,9 +40,9 @@
 
 ## Codes
 
-* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P2_3fold]().
+* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P2_3fold](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem2/Hw2_P2_3fold.m).
 
-* The main codes of the **KNN with Cosine Similarities** are provided in [knn_3fold_cos]().
+* The main codes of the **KNN with Cosine Similarities** are provided in [knn_3fold_cos](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem2/knn_3fold_cos.m).
 
 
 # K-Means Clustring
@@ -51,7 +51,7 @@
 
 ## Codes
 
-* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P3_cell]().
+* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P3_cell](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem3/Hw2_P3_cell.m).
 
 
 
