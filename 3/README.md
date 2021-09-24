@@ -11,7 +11,7 @@
 
 ## Codes
 
-The codes of the **first problem** are provided in [NeuralNet_Gradient_Descent]() and [NeuralNet_Stochastic_Gradient_Descent]().
+The codes of the **first problem** are provided in [NeuralNet_Gradient_Descent](https://github.com/ARokni/Intelligent-Systems/blob/main/3/Codes/P1/Gradient_Descent.m) and [NeuralNet_Stochastic_Gradient_Descent](https://github.com/ARokni/Intelligent-Systems/blob/main/3/Codes/P1/Stochastic_Gradient_Descent.m).
 
 # Naive-Bayes
 
@@ -19,7 +19,7 @@ The codes of the **first problem** are provided in [NeuralNet_Gradient_Descent](
 
 ## Codes
 
-The codes of this part are provided in [Naive-Bayes]().
+The codes of this part are provided in [Naive-Bayes](https://github.com/ARokni/Intelligent-Systems/blob/main/3/Codes/P2/Hw3_P2.m).
 
 
 
