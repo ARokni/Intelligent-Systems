@@ -40,9 +40,9 @@
 
 ## Codes
 
-* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P2_3fold](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem2/Hw2_P2_3fold.m).
+* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P2_L2Norm](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem2/Hw2_P2_3fold.m).
 
-* The main codes of the **KNN with Cosine Similarities** are provided in [knn_3fold_cos](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem2/knn_3fold_cos.m).
+* The main codes of the **KNN with Cosine Similarities** are provided in [Hw2_P2_cos](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem2/knn_3fold_cos.m).
 
 
 # K-Means Clustring
@@ -51,7 +51,7 @@
 
 ## Codes
 
-* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P3_cell](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem3/Hw2_P3_cell.m).
+* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P3_K_Means_Clustring](https://github.com/ARokni/Intelligent-Systems/blob/main/2/Codes/Problem3/Hw2_P3_cell.m).
 
 
 
