@@ -1,7 +1,7 @@
 # Second Project
 
 
- In this project I have implemented **`Decision Tree`**, **`KNN`**, and **`K-Means Clustring`** on **`Matlab`** from scratch.
+ In this project I have implemented **`Decision Tree`**, **`KNN`**, and **`K-Means Clustring`** on **`MATLAB`** from scratch.
 
 
  # Decision Tree
@@ -18,6 +18,17 @@
 
 * In the **fourth part** of this problem, I have implemented a **`Random Forest`** model.
 
+## Codes
+
+* The main codes of the **first part** are provided in [P1_main]() and the **MATLAB Function** for the **ID3** algorithm is provided in [P1c_ID3]().
+
+* The main codes of the **second part** are provided in [P1_Tree_GINI]() and the **MATLAB Function** for the **ID3 with Gini Index** algorithm is provided in [ID3_by_GINI]().
+
+* The main codes of the **third part** are provided in [P1_Tree_OverfitID3]() and the **MATLAB Function** for the **ID3 with Overfitting Mechanism** algorithm is provided in [ID3_overfit]().
+
+* The main codes of the **fourth part** are provided in [P1_Radom_Forest]().
+
+
 # KNN
 
 * In the **second problem** of this project, I implemented **`KNN`** algorithm on **`iris`** dataset.
@@ -27,9 +38,22 @@
 * I utilized two different norms in the **KNN** implementation: **`L2 Norm`** and **`Cosine Similarities`**.
 
 
+## Codes
+
+* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P2_3fold]().
+
+* The main codes of the **KNN with Cosine Similarities** are provided in [knn_3fold_cos]().
+
+
 # K-Means Clustring
 
 * In the **third problem** of this project, I implemented **`K-Means Clustring`** on **`iris`** dataset.
+
+## Codes
+
+* The main codes of the **KNN with L2 Norm** are provided in [Hw2_P3_cell]().
+
+
 
 
 
